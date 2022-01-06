@@ -1,0 +1,20 @@
+
+body{
+    background-color:rgb(160, 154, 167);
+}
+h2{
+    color: darkblue;
+}
+.text-red{
+    color: brown;
+}
+p{
+    
+    color: seashell;
+}
+li{
+    color: teal;
+}
+h1{
+    text-align: center;
+}
